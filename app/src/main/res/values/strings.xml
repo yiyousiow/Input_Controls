@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Input_Controls</string>
+    <string name="Chocolate">Chocolate Syrup</string>
+    <string name="Sprinkies">Sprinkies</string>
+    <string name="Crushednuts">Crushed nuts</string>
+    <string name="Cherries">Cherries</string>
+    <string name="Oriocookiecrumbles">Orio cookie crumbles</string>
+    <string name="Showtoots">SHOW TOAST</string>
+    <string name="topping">Topping:</string>
+
+</resources>
